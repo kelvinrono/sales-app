@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754031979362",
+    "project_id": "mauzo-app-80141",
+    "storage_bucket": "mauzo-app-80141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754031979362:android:57d23aa69aab2186bb1a3b",
+        "android_client_info": {
+          "package_name": "com.cheruiyot.salesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuRcz_kiBTsYls0Gixkv5lwTguKc8FVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
